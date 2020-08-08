@@ -1,0 +1,3 @@
+[08-Aug-2020 09:19:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'WGUYAbZWjC'@'209.159.149.194' (using password: YES) in /home/sipinetx/public_html/m/authenticate.php on line 9
+[08-Aug-2020 09:19:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'WGUYAbZWjC'@'209.159.149.194' (using password: YES) in /home/sipinetx/public_html/m/authenticate.php on line 9
+[08-Aug-2020 09:20:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'WGUYAbZWjC'@'209.159.149.194' (using password: YES) in /home/sipinetx/public_html/m/authenticate.php on line 9
